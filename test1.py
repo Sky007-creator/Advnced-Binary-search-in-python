@@ -1,6 +1,6 @@
 """
 Iterate through an Array and find the sum of any two elements which is numerically equal to 
-the target value. If no arrays exits in the list then return 0 and exit!
+the target value. If no array exits in the list then return 0 and exit!
 """
 import time
 import os
